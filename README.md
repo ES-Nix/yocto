@@ -1,6 +1,8 @@
 
 
 
+`nix build github:ES-Nix/yocto/yocto-env-mic92#yocto`
+
 [Cross Platform Enablement for the Yocto Project with Containers - Randy Witt, Intel](https://www.youtube.com/watch?v=JXHLAWveh7Y)
 
 
